@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
   <head>
     <h1>Game Game Art and its Impact</h1>
@@ -29,12 +27,24 @@
     <ol>
       <li><a href="https://www.stardewvalley.net/">Stardew Valley</a></li>
       <ul>
-        <li>The game does a fantastic job of making the player feel comfortable and warm with its colors while also making a semi nostalgic feeling in the pixel art style. The characters all have well thought out designs and the backgrounds are all very pleasing to the eye and really immerse you into the cozy farming sim.</li>
+        <li>Stardew Valley a fantastic job of making the player feel comfortable and warm with its colors while also making a semi nostalgic feeling in the pixel art style. The characters all have well thought out designs and the backgrounds are all very pleasing to the eye and really immerse you into the cozy farming sim.</li>
       </ul>
-      <li>Until Then</li>
+      <li><a href="https://untilthengame.com/">Until Then</a></li>
       <ul>
-        <li>The game combines both a 2D and 3D look seamlessly while maintaining a beautiful pixel artstyle. The characters are all animated and shown in a 2D form whilst every background is 3D with pixel UV wraps to make each scene and level feel as if you are in the room with the characters</li>
+        <li>Until Then combines both a 2D and 3D look seamlessly while maintaining a beautiful pixel artstyle. The characters are all animated and shown in a 2D form whilst every background is 3D with pixel UV wraps to make each scene and level feel as if you are in the room with the characters</li>
       </ul>
-      
+      <li><a href="https://www.quanticdream.com/en/detroit-become-human">Detroit Become Human</a></li>
+      <ul>
+        <li>Detroit Become Human is a 3D game that uses motion capture to create the animations for its characters. The animations and character designs really help you attach to their personalities. Additionally, this game takes place in the future and the backgroud/level designs are so well thought out and displayed that it really makes you feel like you are in the future!</li>
+      </ul>
+      <li><a href="http://www.nightinthewoods.com/">Night in the Woods</a></li>
+      <ul>
+        <li>Night in the Woods uses a simplistic artstyle that allows for a more cartoon-like feel to the adventures you see when playing as Mae. It gives the game a softer feeling for the dark secrets that lie underneath the surfacae with the saturated colors of the game create a warm, energetic feeling while playing the game.</li>
+      </ul>
+      <li><a href="https://www.unpackinggame.com/">Unpacking</a></li>
+      <ul>
+        <li>Unpacking has simple game mechanics but is supported heavily by the bright, cute, and nostalgic pixel art that it provides. The little details in the items you unpack from place to place as the game progresses asssist in telling a story of how the unseen protagonist you play as has grown up not just in age, but as a person. You can see throughout the game that she brings the same stuffed animal to every house she lives in along with certain cups, plates, shirts, and other items that progress forward throughout the time in-game to show how her interests have changed and grew as she has gotten older.</li>
+      </ul>
+    </ol>
   </body>
 </html>
